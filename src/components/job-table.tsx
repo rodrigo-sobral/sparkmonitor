@@ -77,8 +77,7 @@ const JobItem = observer((props: { jobId: string }) => {
             className={
               'tdstageicon ' + (!stagesCollapsed ? 'tdstageiconcollapsed' : '')
             }
-          ></svg>
-          </span>
+          ></span>
         </td>
         <td className="tdjobid">{job.jobId}</td>
         <td className="tdjobname">{job.name}</td>
