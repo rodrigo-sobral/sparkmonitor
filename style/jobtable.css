@@ -1,9 +1,5 @@
 .pm .tdstageicon {
   display: block;
-  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAXUlEQVR4AWMAgVGwjkGKNA3/GT4wZDAwkqABDA8zaBKtAQp/MjQwsBGnAQGvMVgTpwEB/zFMZ+AjoAEDPmUIpKGGfwzTGPho5OmfDPUMbKREnAYpSSOdgZGSxDcKADdXTK1stp++AAAAAElFTkSuQmCC');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;
   width: 15px;
 
   /* display: inline-block; */
